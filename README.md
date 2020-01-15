@@ -24,3 +24,4 @@
 <img src="https://storage.googleapis.com/spec-host-backup/mio-design%2Fassets%2F11HOtmhrzSWV-83DL97G2w3nJHd5WIyps%2Fintro-illo-bold.png" height="50%" width="50%" />
 
 #### 大膽、圖像、有意為之
+質感設計藉由印刷設計(print design)的方法 ── 文字排印、格線、留白、大小、顏色與圖像以創造層次、意義和焦點，使觀看者沉浸在其中。
